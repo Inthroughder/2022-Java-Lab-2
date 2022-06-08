@@ -1,0 +1,9 @@
++=ru.nsu.fit.inthroughder.task1.calculator.commands.CalcCommandAdd
+-=ru.nsu.fit.inthroughder.task1.calculator.commands.CalcCommandSub
+*=ru.nsu.fit.inthroughder.task1.calculator.commands.CalcCommandMul
+/=ru.nsu.fit.inthroughder.task1.calculator.commands.CalcCommandDiv
+SQRT=ru.nsu.fit.inthroughder.task1.calculator.commands.CalcCommandSqrt
+POP=ru.nsu.fit.inthroughder.task1.calculator.commands.CalcCommandPop
+PUSH=ru.nsu.fit.inthroughder.task1.calculator.commands.CalcCommandPush
+PRINT=ru.nsu.fit.inthroughder.task1.calculator.commands.CalcCommandPrint
+DEFINE=ru.nsu.fit.inthroughder.task1.calculator.commands.CalcCommandDefine
